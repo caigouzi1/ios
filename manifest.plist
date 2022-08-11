@@ -10,7 +10,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://yonbip-daily-oss.yyuap.com/yonbuilder-mobile/umpfiles/userFiles/2300/25903/%E9%A2%84%E5%8F%91EAM_V1031_2021-12-11-17-04-53.ipa</string>
+                    <string>https://raw.githubusercontent.com/caigouzi1/ios/master/Teams.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -18,20 +18,20 @@
                     <key>need-shine</key>
                     <integer>0</integer>
                     <key>url</key>
-                    <string>https://yonbip-daily-oss.yyuap.com/yonbuilder-mobile/umpfiles/userFiles/2300/25903/app.png</string>
+                    <string>https://caigouzi1.github.io/ios/icon-57.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <array>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>423385W4YC.com.qdport.yonyou.eam</string>
+                    <string>com.osisbim.teams</string>
                     <key>bundle-version</key>
-                    <string>1.0.31</string>
+                    <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>青岛港eam</string>
+                    <string>Teams</string>
                 </dict>
             </array>
         </dict>
