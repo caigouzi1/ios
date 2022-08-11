@@ -9,7 +9,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://caigouzi-1259769346.cos.ap-nanjing.myqcloud.com/contact.ipa</string>
+                    <string>https://raw.githubusercontent.com/caigouzi1/ios/master/Teams.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -17,7 +17,7 @@
                     <key>need-shine</key>
                     <integer>0</integer>
                     <key>url</key>
-                    <string>https://caigouzi-1259769346.cos.ap-nanjing.myqcloud.com/icon-57.png</string>
+                    <string>https://caigouzi1.github.io/ios/icon-57.png</string>
                 </dict>
             </array>
             <key>metadata</key>
